@@ -18,6 +18,7 @@
 <head>
   <%@ include file="/components/app-head.jsp" %>
   <title>PlantUML Server</title>
+  <script defer src="https://umami-sww840880kg8cgocgosg4gwc.aig.de101.cgm.ag/script.js" data-website-id="1eda9557-d42e-4a06-81dd-29e04ea63388"></script>
 </head>
 <body>
   <div class="app flex-rows">
